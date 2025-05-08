@@ -31,7 +31,7 @@ npm start
 
 Port:4003
 
-##Note: 
+## Note: 
 
 it required Student , Auth ,Vacination scalable services for the application to run which runs on different ports if deployed in docker and can be setup the url by changing in the env if deployed in different servers
 
